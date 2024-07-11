@@ -3,7 +3,7 @@ package org.nemnous.problems;
 /**
  * Brute force.
  *
- * Time complexity: O(N)
+ * Time complexity: O(N^2)
  */
 public class ContainsDuplicateSol1 {
     public boolean containsDuplicate(int[] nums) {
